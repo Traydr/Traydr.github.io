@@ -2,7 +2,7 @@ title: Traydr's Blog
 author: Traydr
 url: https://www.traydr.dev # root address of the site
 description: > # description of the site (multiple lines allowed)
-  My personal site for sharing projects and interesting tidbits
+  My personal site for sharing projects and interesting tidbits.
 
 permalink: /:slug
 
