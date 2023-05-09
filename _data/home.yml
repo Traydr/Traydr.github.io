@@ -10,30 +10,21 @@ navbar_entries:
 
 project_entries:
   - title: ppm
-    url: overview-post
+    url: wip-post
     desc: A php password manager, using mysql in the backend
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: ut-tcs-m2-yellow-17
+    url: wip-post
+    desc: The Pentago boardgame as a cli, with a client and a server for playing with people remotely
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: ut-tcs-m1-pearls
+    url: wip-post
+    desc: A python web app using plotly, that analyses a fake twitter feed for keywords
+
+  - title: Unamed-Transportation-Game
+    url: wip-post
+    desc: This was a small unity game made as my final project for a-levels
 
 footer_entries:
   - title: twitter
